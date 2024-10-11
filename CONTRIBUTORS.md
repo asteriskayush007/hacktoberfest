@@ -1,7 +1,7 @@
-#### Name: Vallenain
- - Place: Lyon, France
- - Bio: Software engineer. Graduated from INSA Lyon.
- - GitHub: [Vallenain](https://github.com/Vallenain)
+#### Name: Ayushmaan
+ - Place: Uttarpradesh, India
+ - Bio: Software engineer. UnderGraduate.
+ - GitHub: [asteriskayush007](https://github.com/asteriskayush007)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
